@@ -12,7 +12,7 @@
 - 👨‍💻 Check out my portfolio [https://aman-sumesh.vercel.app](https://aman-sumesh.vercel.app/)
 - 💼 Open to **Internships, freelance projects, open-source collaborations.**
 - 📫 How to reach me **amansumesh2005@gmail.com**
-- ⚡ Fun fact **I write bugs faster than features.**
+- ⚡ Fun fact: **Debugging is my cardio.**
 
 ---
 
@@ -70,23 +70,16 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/aman-sumesh" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"
-         width="36" style="margin: 0 10px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="36" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://instagram.com/aman_sumesh" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/15713/15713420.png"
-         width="36" style="margin: 0 10px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/15713/15713420.png" width="36" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="mailto:amansumesh2005@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"
-         width="36" style="margin: 0 10px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="36"  />
   </a>
 </p>
-
-
-
-
-
-
