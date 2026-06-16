@@ -68,7 +68,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amansumesh&theme=tokyonight&hide_border=true&border_radius=12" />
@@ -87,14 +87,6 @@
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/amansumesh/amansumesh/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" /> 
-</div>
-
----
-
-## 💭 Quote
-
-<div align="center">
-*"Engineering impactful products by combining software craftsmanship, scalable systems, and artificial intelligence."*
 </div>
 
 ---
