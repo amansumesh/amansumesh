@@ -68,11 +68,32 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=amansumesh&theme=dark&hide_border=false" />
-</p>
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amansumesh&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amansumesh&theme=tokyonight&hide_border=true&border_radius=12" />
+</div>
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansumesh&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amansumesh&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</div>
+
+---
+
+## 💭 Quote
+
+<div align="center">
+*"Engineering impactful products by combining software craftsmanship, scalable systems, and artificial intelligence."*
+</div>
 
 ---
 
@@ -92,4 +113,8 @@
   <a href="mailto:amansumesh2005@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="36"  />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A855F7&height=120&section=footer"/>
 </p>
