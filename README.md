@@ -71,12 +71,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amansumesh&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amansumesh&theme=tokyonight&hide_border=true&border_radius=12" />
-</div>
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansumesh&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 </div>
 
 ---
@@ -85,6 +80,13 @@
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=amansumesh&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</div>
+
+---
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/amansumesh/amansumesh/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" /> 
 </div>
 
 ---
