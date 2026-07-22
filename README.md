@@ -93,6 +93,19 @@
 
 ---
 
+## 📜 Licenses & Certifications
+
+<div align="center">
+
+| Badge | Certification |
+|:------:|---------------|
+| <img width="150" height="155" alt="OCI25GAIOCP Badge" src="https://github.com/user-attachments/assets/7fd292b2-23b9-49b3-b4b6-85d70239be69" /> | **[Oracle Cloud Infrastructure 2025 Certified Generative AI Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=9C9EDF66FDC7F4681DF807B44C9E32B022A2A8EF3E37FA936D8FDF236CED8449)** |
+| <img width="150" height="155" alt="OCI25AICFA Badge" src="https://github.com/user-attachments/assets/f057c13c-be95-44db-84c7-3eacca5e06fe" /> | **[Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=E995D278BB52C4CAC3C04EBBA894B5A85D8E38A1C1BE60C63F7C038DC7ABB323)** |
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
